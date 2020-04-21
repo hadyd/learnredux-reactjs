@@ -10,4 +10,4 @@ Hanya tempat yang di perbolehkan untuk merubah state
 Tempat menaruh seluruh state dan seluruh perubahan state
 
 ### Aplikasi Counter Menggunakan Redux :
-[Netlify](reduxcounter-reactjs.netlify.app)
+[Netlify](https://reduxcounter-reactjs.netlify.app/)
