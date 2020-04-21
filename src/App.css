@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
+
+.navbar {
+  background-color: #44bd32;
+  padding: 15px;
+  position: sticky;
+  top: 0;
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.navbar li {
+  display: inline;
+  list-style-type: none;
+  padding-right: 10px;
+}
+
+.cakes {
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+}
+
+.icecream {
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+}
+
+.home {
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+}
+
+.button {
+  margin-right: 5px;
+}
