@@ -9,5 +9,5 @@ Hanya tempat yang di perbolehkan untuk merubah state
 ### store
 Tempat menaruh seluruh state dan seluruh perubahan state
 
-### Aplkasi Counter Menggunakan Redux :
+### Aplikasi Counter Menggunakan Redux :
 [Netlify](reduxcounter-reactjs.netlify.app)
